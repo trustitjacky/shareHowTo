@@ -3,7 +3,7 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Food</td>
+        <td>Food:Apple</td>
     </tr>
 </table>
 
